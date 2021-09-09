@@ -18,3 +18,5 @@
 
     </c:param>
 </c:import>
+
+/*http://localhost:8080/message_board/index*/
