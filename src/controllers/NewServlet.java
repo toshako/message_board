@@ -14,7 +14,7 @@ import models.Message;
 /**
  * Servlet implementation class NewServlet
  */
-@WebServlet("/new")
+@WebServlet("/new")  // /newと書かれたリンクをクリックしたら私の出番
 public class NewServlet extends HttpServlet {
     private static final long serialVersionUID = 1L;
 
